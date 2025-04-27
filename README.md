@@ -1,3 +1,14 @@
+# ระบบจ่ายเงินเดือนอัตโนมัติด้วย Smart Contract
+
+## คำอธิบายโปรเจกต์
+โปรเจกต์นี้เป็นระบบจ่ายเงินเดือนอัตโนมัติที่เชื่อมต่อกับ Smart Contract เพื่อช่วยอำนวยความสะดวกในการจ่ายเงินเดือนให้กับพนักงาน โดยระบบนี้รองรับการใช้ Ethereum Smart Contract สำหรับการจ่ายเงินเดือนและการจัดการข้อมูลพนักงานผ่าน Frontend ที่พัฒนาโดยใช้ React หรือ Next.js
+
+## วิธีการใช้งาน Frontend
+1. **Clone Repository:**
+   ```bash
+   git clone <link_to_your_repository>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
