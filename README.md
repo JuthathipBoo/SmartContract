@@ -12,39 +12,38 @@ Screenshot Dashboard
 ![image](https://github.com/user-attachments/assets/7bd1f741-67a4-4628-9b85-22107fcd2860)
 
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+เริ่มต้นใช้งานโปรเจกต์ Next.js
+โปรเจกต์นี้เป็นโปรเจกต์ Next.js ที่สร้างขึ้นด้วยคำสั่ง create-next-app
 
-## Getting Started
+การเริ่มต้นใช้งาน
+ก่อนอื่นให้รันเซิร์ฟเวอร์พัฒนาโดยใช้คำสั่ง:
 
-First, run the development server:
-
-```bash
+bash
+Copy
+Edit
 npm run dev
-# or
+# หรือ
 yarn dev
-# or
+# หรือ
 pnpm dev
-# or
+# หรือ
 bun dev
-```
+จากนั้นเปิดเว็บเบราว์เซอร์ของคุณที่ http://localhost:3000 เพื่อดูผลลัพธ์
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+คุณสามารถเริ่มต้นการแก้ไขหน้าเว็บได้โดยการแก้ไขไฟล์ app/page.tsx ซึ่งหน้าเว็บจะอัปเดตอัตโนมัติเมื่อทำการแก้ไขไฟล์
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+โปรเจกต์นี้ใช้ next/font เพื่อช่วยปรับแต่งและโหลดฟอนต์ Geist ซึ่งเป็นฟอนต์ใหม่จาก Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+เรียนรู้เพิ่มเติม
+เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับ Next.js, คุณสามารถดูข้อมูลจากแหล่งต่อไปนี้:
 
-## Learn More
+เอกสารของ Next.js - เรียนรู้เกี่ยวกับฟีเจอร์และ API ของ Next.js
 
-To learn more about Next.js, take a look at the following resources:
+เรียนรู้ Next.js - บทเรียนอินเทอร์แอคทีฟสำหรับการใช้งาน Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+คุณสามารถเข้าไปดู GitHub ของ Next.js - ซึ่งยินดีต้อนรับความคิดเห็นและการมีส่วนร่วมจากคุณ!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+การ Deploy บน Vercel
+วิธีที่ง่ายที่สุดในการ deploy โปรเจกต์ Next.js ของคุณคือการใช้ แพลตฟอร์ม Vercel ซึ่งเป็นแพลตฟอร์มจากผู้สร้าง Next.js
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+อ่านข้อมูลเพิ่มเติมเกี่ยวกับการ deploy ใน เอกสารการ Deploy ของ Next.js
