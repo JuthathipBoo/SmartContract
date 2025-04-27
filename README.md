@@ -6,7 +6,7 @@
 ## วิธีการใช้งาน Frontend
 1. **Clone Repository:**
    ```bash
-   git clone [<link_to_your_repository>](https://github.com/JuthathipBoo/SmartContract.git)
+   git clone https://github.com/JuthathipBoo/SmartContract.git
 
 Screenshot Dashboard
 ![image](https://github.com/user-attachments/assets/7bd1f741-67a4-4628-9b85-22107fcd2860)
