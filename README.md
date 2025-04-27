@@ -6,7 +6,10 @@
 ## วิธีการใช้งาน Frontend
 1. **Clone Repository:**
    ```bash
-   git clone <link_to_your_repository>
+   git clone [<link_to_your_repository>](https://github.com/JuthathipBoo/SmartContract.git)
+
+Screenshot Dashboard
+![image](https://github.com/user-attachments/assets/7bd1f741-67a4-4628-9b85-22107fcd2860)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
