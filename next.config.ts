@@ -1,7 +1,13 @@
-import type { NextConfig } from "next";
+const repoName = 'SmartContract'; // ตัวอย่าง ถ้า repo ชื่อ nextjs-blog
 
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
+  basePath: `/${repoName}`,
+  assetPrefix: `/${repoName}/`,
 };
+
+module.exports = nextConfig;
+
 
 export default nextConfig;
