@@ -21,11 +21,11 @@ Screenshot Dashboard
 bash
 Copy
 Edit
-npm run dev
+**npm run dev
 # หรือ
-yarn dev
+**yarn dev
 # หรือ
-pnpm dev
+**pnpm dev
 # หรือ
 bun dev
 จากนั้นเปิดเว็บเบราว์เซอร์ของคุณที่ http://localhost:3000 เพื่อดูผลลัพธ์
