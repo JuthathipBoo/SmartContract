@@ -10,9 +10,6 @@
    ```bash
    git clone https://github.com/JuthathipBoo/SmartContract.git
 
-# Screenshot Frontend
-![สกรีนช็อต 2025-04-27 113801](https://github.com/user-attachments/assets/fba4e845-25d7-4a9a-8d21-111764cb5b45)
-
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -29,6 +26,9 @@ pnpm dev
 # or
 bun dev
 ```
+
+# Screenshot Frontend
+![สกรีนช็อต 2025-04-27 113801](https://github.com/user-attachments/assets/fba4e845-25d7-4a9a-8d21-111764cb5b45)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
